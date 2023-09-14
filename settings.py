@@ -10,3 +10,5 @@ X_AXIS_LABEL = "Results"
 Y_AXIS_LABEL = "Number of times"
 
 PI_LABELS = ["Total Wins", "Total Draws", "Total Losses"]
+
+COLORS = ["#1D9840", "#D1D1D1", "#930C0C"]
